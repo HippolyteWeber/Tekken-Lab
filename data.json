@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "name": "Kazuya",
+      "imgSrc": "/public/images/Kazuya.png",
+      "desc": "An arrogant loner, Kazuya, is the eldest son of Heihachi Mishima, distinguished head of the tournament sponsors, the Mishima Corporation. His appearance in the tournament is just part of a long term battle of wills with his father."
+    },
+    {
+      "name": "Jin",
+      "imgSrc": "/public/images/Jin.png",
+      "desc": "Jin Kazama is a muscular young man of Japanese ethnicity. He has black hair that spikes at the back of his head, similar to that of his father, Kazuya Mishima. He also sports a fringe like his mother, Jun Kazama. Jin's face also strongly resembles his mother's."
+    },
+    {
+      "name": "jun",
+      "imgSrc": "/public/images/Jun.png",
+      "desc": "Jun displayed a propensity in communicating with animals from a very young age. She went on to become a wildlife surveillance officer for a conservation group where she pursued Kazuya Mishima, who was suspected of smuggling protected animals."
+    },
+    {
+      "name": "king",
+      "imgSrc": "/public/images/King.png",
+      "desc": " King is active on the pro wrestling circuit, and he also manages an orphanage on the side. The war between G Corporation and the Mishima Zaibatsu has ravaged the world, causing an unprecedented swell in the number of children needing his help."
+    },
+    {
+      "name": "Law",
+      "imgSrc": "/public/images/Law.png",
+      "desc": "The Legendary Dragon, Marshall Law is a renowned martial arts master and even runs his own dojo. However, he was in debt due to his son's motorcycle accident, and his efforts to repay this debt caused him to neglect his dojo, resulting in a sharp drop-off of students coming to train."
+    },
+    {
+      "name": "Paul",
+      "imgSrc": "/public/images/Paul.png",
+      "desc": "Paul Phoenix is a hot-blooded martial artist aiming to be the greatest fighter in the universe. He entered the seventh The King of Iron Fist Tournament with his eyes on the exorbitant prize money, more assured than ever that this time he would claim victory."
+    },
+    {
+      "name": "Leeroy",
+      "imgSrc": "/public/images/Leroy.png",
+      "desc": "Leroy is a disciplined and seasoned martial artist, who has dedicated himself to perfecting Wing Chun for decades. The hanzi on his back 戒 (temperance) refers to his choice to he keep himself in check."
+    },
+    {
+      "name": "Steve",
+      "imgSrc": "/public/images/Steve.png",
+      "desc": "Steve Fox is a middleweight boxing world champion whose ingenious technique and pace control in the ring have charmed countless audiences. Raised in a facility owned by the Mishima Zaibatsu, Steve went on a search for his real parents the moment he learned he was just a test subject."
+    },
+    {
+      "name": "Dragunov",
+      "imgSrc": "/public/images/Dragunov.png",
+      "desc": "Steve Fox is a middleweight boxing world champion whose ingenious technique and pace control in the ring have charmed countless audiences. Raised in a facility owned by the Mishima Zaibatsu, Steve went on a search for his real parents the moment he learned he was just a test subject."
+    },
+    {
+      "name": "Yoshimitsu",
+      "imgSrc": "/public/images/Yoshimitsu.png",
+      "desc": "Yoshimitsu is an inheritor of the Manji Ninjutsu and current head of the Manji Clan, a group of chivalrous thieves active since the Sengoku period. Six months ago, Yoshimitsu accepted a request from an investor of the refugee relief project."
+    },
+    {
+      "name": "Devil Jin",
+      "imgSrc": "/public/images/Devil Jin.png",
+      "desc": "Devil Jin is another form of Jin Kazama one that has lost all reasoning due to the devil blood that controls his mind. With the way he glides through the air on jet-black wings, 'devil' is the perfect word to describe his appearance and abilities that lie beyond human capabilities."
+    },
+    {
+      "name": "Leo",
+      "imgSrc": "/public/images/Leo.png",
+      "desc": "Leo is a Bajiquan user born to Niklas Kliesen, a world-renowned archaeologist, and Emma Kliesen, an authority in genetic research"
+    },
+    {
+      "name": "Lee",
+      "imgSrc": "/public/images/Lee.png",
+      "desc": "Raised in a harsh environment as Heihachi Mishima's adopted son, Lee Chaolan now manages the global humanoid manufacturer, Violet Systems."
+    },
+    {
+      "name": "Hwoarang",
+      "imgSrc": "/public/images/Hwoarang.png",
+      "desc": "A Taekwondo master, Hwoarang has considered Jin Kazama as his rival ever since their first fight ended in a draw. About six months ago, he meets Jin again in the Middle East. The black-winged figure that stood before him was the same that had trounced him in an instant in a previous encounter."
+    },
+    {
+      "name": "Eddy",
+      "imgSrc": "/public/images/Eddy.png",
+      "desc": "Eddy Gordo is a skilled capoeira user who has devoted half his life to honing his skills so he can exact revenge on Kazuya Mishima for his father's death. One day, his capoeira master falls victim to an incurable disease. With no one else to turn to, Eddy pleads for help from the current head of the Mishima Zaibatsu, Jin Kazama."
+    }
+  ]
+}

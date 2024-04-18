@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Bungee";
+  src: url("./assets/font/BungeeSpice-Regular.ttf");
+}
+@font-face {
+  font-family: "Protest";
+  src: url("./assets/font/ProtestRevolution-Regular.ttf");
+}
+@font-face {
+  font-family: "Yanone kaffeesatz";
+  src: url("./assets/font/YanoneKaffeesatz-VariableFont_wght.ttf");
+}
